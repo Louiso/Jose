@@ -1,0 +1,13 @@
+{
+  "name": "jose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -w & serve ./public"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.0",
+    "serve": "^10.0.1"
+  }
+}
