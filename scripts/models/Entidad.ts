@@ -1,4 +1,4 @@
-import { Vec2 } from './math.js';
+import { Vec2 } from '../helpers/math.js';
 export default class Entidad{
   pos: Vec2;
   vel: Vec2;

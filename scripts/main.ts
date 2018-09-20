@@ -1,5 +1,5 @@
-import { Vec2 } from './models/math.js';
-import Loader from './models/Loader.js';
+import { Vec2 } from './helpers/math.js';
+import Loader from './helpers/Loader.js';
 const pantalla:any = document.getElementById('canvas');
 
 pantalla.style.outline = 'solid 1px black';
