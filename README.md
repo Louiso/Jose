@@ -1,5 +1,5 @@
 # Jose
 
-Mensaje para mi :v : 
+El proyecto se hara en Typescript con el fin de que se pueda cometer muchos menos errores, ademas de una documentacion mas rica para los demas que quieran usar sus implementaciones.
 
-- Tratar que las imagenes tengan las mismas dimensiones o todo se ira a la mrd XD
+async y await para que la lectura del codigo sea mucho mas fluida.
