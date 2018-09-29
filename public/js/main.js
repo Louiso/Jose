@@ -6,7 +6,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments)).next());
     });
 };
-import Loader from './models/Loader.js';
+import Loader from './helpers/Loader.js';
 const pantalla = document.getElementById('canvas');
 pantalla.style.outline = 'solid 1px black';
 const context = pantalla.getContext('2d');
